@@ -1,0 +1,16 @@
+{
+  "name": "ProjectRTC",
+  "version": "1.0.0",
+  "author": "matthewYang",
+  "description": "a webRTC SocketIO server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pchab/ProjectRTC.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "ejs": "1.0",
+    "express": "^4.12.3",
+    "socket.io": "1.0"
+  }
+}
